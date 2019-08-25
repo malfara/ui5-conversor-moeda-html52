@@ -7,6 +7,7 @@ function chamarAPI(){
 	$.get(endpoint, oParametros, callback );
 }
 
+
 function callback(resultado){
 	// console.log(resultado);
 	
